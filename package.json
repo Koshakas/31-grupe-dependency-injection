@@ -1,0 +1,18 @@
+{
+  "name": "31-grupe-dependency-injection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "i.js",
+  "dependencies": {
+    "nodemon": "^2.0.14",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon anime.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Konstantinas Jariomenko",
+  "license": "MIT"
+}
